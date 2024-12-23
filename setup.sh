@@ -2,7 +2,7 @@
 # Installation script by ARYO.
 
 DIR=/usr/bin
-
+ 
 
 finish(){
 clear
